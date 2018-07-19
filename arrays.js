@@ -5,7 +5,7 @@ function addElementToBeginningOfArray(array, element) {
   return [element, ...array]
 }
 
-function descructivelyAddElementToBeginningOfArray(){
+function descructivelyAddElementToBeginningOfArray(array, element){
   
 }
 
